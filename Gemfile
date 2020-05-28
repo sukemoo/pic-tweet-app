@@ -67,7 +67,7 @@ gem 'sprockets', '3.7.2'
 gem 'hirb'
 gem 'hirb-unicode'
 gem 'devise'
-gem 'kaminari', '~> 0.17.0'
+gem 'kaminari', '~> 1.2.1'
 
 group :production do
   gem 'rails_12factor'
